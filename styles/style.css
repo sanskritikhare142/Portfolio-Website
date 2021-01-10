@@ -1,0 +1,19 @@
+/* blue #3498db */
+
+.heading1{
+    padding-top: 3em;
+    padding-bottom: 1em;
+}
+
+.About-me-description{
+    padding-right: 5em;
+    padding-left: 5em;
+}
+
+.quote-text{
+    text-emphasis-color: azure;
+}
+
+.card{
+    margin: 1.5rem;
+}
